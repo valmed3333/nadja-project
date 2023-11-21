@@ -1,0 +1,28 @@
+.offcanvas-sidebar {
+    text-align: end;
+    display: flex;
+    width: 200px !important;
+    background-color: #161719;
+    color: #f8f9fa;
+
+}
+
+.offcanvas-title {
+    text-align: justify;
+}
+
+.bg-body-tertiary {
+    height: 56px;
+}
+
+/* .offcanvas-header {
+    background-color: blueviolet;
+
+} */
+
+navbar-brand {
+    display: inline-block;
+    vertical-align: top;
+    background-color: #161719;
+    color: #f8f9fa;
+}
